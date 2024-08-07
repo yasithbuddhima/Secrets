@@ -6,6 +6,7 @@
     "ejs": "^3.1.10",
     "express": "^4.19.2",
     "express-session": "^1.18.0",
+    "harp": "^0.46.1",
     "md5": "^2.3.0",
     "mongoose": "^8.5.1",
     "mongoose-encryption": "^2.1.2",
